@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm currently learning HTML, CSS, JavaScript, SQL, NODESJ, React.<br>I'm currently looking for a job as a junior developer.<br>I'm in a career transition looking for a better opportunity to change my life.<br>How to reach me: henrique.osantos10@gmail.com<br>
+Hello! I'm currently learning HTML, CSS, JavaScript, SQL, NODESJ, React.<br>I'm currently looking for a job as a junior developer.<br><br>How to reach me: henrique.osantos10@gmail.com<br>
 
 
 
