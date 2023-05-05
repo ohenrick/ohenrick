@@ -1,7 +1,7 @@
 # 💫 About Me:
 Olá! Estou atualmente aprendendo HTML, CSS, JavaScript, SQL, NODESJ, React.<br> Estou atualmente procurando vaga de emprego como desenvolvedor júnior.<br><br>Entre em contato comigo: henrique.osantos10@gmail.com<br>
 
-English:
+English:<br>
 Hello! I'm currently learning HTML, CSS, JavaScript, SQL, NODESJ, React.<br>I'm currently looking for a job as a junior developer.<br><br>How to reach me: henrique.osantos10@gmail.com<br>
 
 
