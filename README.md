@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Sou Desenvolvedor Web e estou estudando desenvolvimento web na escola @RocketSeat.<br> Estou atualmente procurando vaga de emprego como desenvolvedor júnior.<br><br>Entre em contato comigo: henrique.osantos10@gmail.com<br>
+Olá! Sou Desenvolvedor Web e estou estudando desenvolvimento web na escola @Rocketseat.<br> Estou atualmente procurando vaga de emprego como desenvolvedor júnior.<br><br>Entre em contato comigo: henrique.osantos10@gmail.com<br>
 
 English:<br>
 Hello! I'm a Web Developer currently learning web developement at @Rocketseat.<br>I'm currently looking for a job as a junior developer.<br><br>How to reach me: henrique.osantos10@gmail.com<br>
