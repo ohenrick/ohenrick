@@ -13,4 +13,4 @@ Hello! I'm a Web Developer currently learning web developement at @Rocketseat.<b
 ![](https://github-readme-stats.vercel.app/api?username=ohenrick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
 ## 🌐 Socials/Contacts:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RiCk'#4685) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ohhenrick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos09) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ohenrick) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-santos09) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ohenrick) 
